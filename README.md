@@ -2,4 +2,4 @@
 
 [![Repositórios](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arcanjo-sys?tab=repositories)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Arcanjo GitHub stats](https://github-readme-stats.vercel.app/api?username=arcanjo-sys&show_icons=true&theme=radical)
